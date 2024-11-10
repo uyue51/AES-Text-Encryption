@@ -1,13 +1,7 @@
-使用前，确保脚本目录内有文件夹:
-加密(加密后的文本)
-解密(解密后的文本)
-秘钥(加密时生成的.key文件)
+使用前，确保脚本目录内有文件夹:加密(加密后的文本)，解密(解密后的文本)，秘钥(加密时生成的.key文件)
 
 这就是个娱乐脚本闲着没事写的，有机会的话再写个文件加密试试吧
 --------------------------------------------------------------
-使用前，请确保脚本目录中有一个文件夹：
-加密（加密文本）
-解密（解密文本）
-密钥（加密过程中生成的.Key文件）
-
-这只是一个娱乐脚本，我没有什么可编写的。如果有机会，我会再次尝试加密文件
+Before use, ensure that there is a folder in the script directory:加密 (encrypted text)，解密 (decrypted text)，秘钥 (. key file generated during encryption)
+﻿
+This is just an entertainment script that I have nothing to code. If there's a chance, I'll try encrypting the file again
